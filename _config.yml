@@ -21,10 +21,10 @@
 title: Sickyung
 email: forgivez@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
+  Dev Blog
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ejjoo
+github_username: forgivez
 highlighter: rouge
 svg:
   optimize: true
